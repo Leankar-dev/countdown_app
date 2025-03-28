@@ -1,6 +1,6 @@
 # countdown_app
 
-A new Flutter project.
+A CountDown APP
 
 ## Getting Started
 
